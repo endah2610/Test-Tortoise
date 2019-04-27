@@ -1,0 +1,13 @@
+Langkah - langkah :
+1. buat new folder
+2. lalu klik kanan pilih git create repository here
+3. tungguin sampai muncul (.git)
+4. lalu pada folder yang dipilih, klik kanan pilih git commit -> master
+5. buat repository pada github
+6. lalu klik kanan pada folder yang di pilih, pilih tortoisegit - pilih push
+7. isi url berdasarkan repository yang telah dibuat dan isi path keynya yang sudah di generet
+
+
+untuk editnya
+1. pilih git commit -> master
+2. lalu pilih tortoise-pilih push
